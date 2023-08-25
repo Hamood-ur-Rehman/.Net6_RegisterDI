@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jYiSTb/dPcRkLpGAjh80FL0bXY2bLzGTr2bX1104Lj/alR2YlxjRSOdPxgmRFVtnvx0Rk+bA3zAWL13st012cA==",
+  "dgSpecHash": "POXM5QauC8VxCuClIYTQqrN1giHNGn4SkT8ViQ2fEvnidfz5Eqj4sPVD6mHgq3O3GU6wkuuYoGv5x5aIyUqS5Q==",
   "success": true,
-  "projectFilePath": "E:\\.Net\\.Net Practice\\.Net 6\\Qatar\\RegisterDependencyInjection\\RegisterDependencyInjection\\RegisterDependencyInjection.csproj",
+  "projectFilePath": "E:\\.Net\\.Net Practice\\.Net 6\\Qatar\\Git Project\\.Net6_RegisterDI\\RegisterDependencyInjection\\RegisterDependencyInjection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

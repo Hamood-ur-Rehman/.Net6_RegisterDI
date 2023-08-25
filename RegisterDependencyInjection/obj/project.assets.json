@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.Net\\.Net Practice\\.Net 6\\Qatar\\RegisterDependencyInjection\\RegisterDependencyInjection\\RegisterDependencyInjection.csproj",
+      "projectUniqueName": "E:\\.Net\\.Net Practice\\.Net 6\\Qatar\\Git Project\\.Net6_RegisterDI\\RegisterDependencyInjection\\RegisterDependencyInjection.csproj",
       "projectName": "RegisterDependencyInjection",
-      "projectPath": "E:\\.Net\\.Net Practice\\.Net 6\\Qatar\\RegisterDependencyInjection\\RegisterDependencyInjection\\RegisterDependencyInjection.csproj",
+      "projectPath": "E:\\.Net\\.Net Practice\\.Net 6\\Qatar\\Git Project\\.Net6_RegisterDI\\RegisterDependencyInjection\\RegisterDependencyInjection.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\.Net\\.Net Practice\\.Net 6\\Qatar\\RegisterDependencyInjection\\RegisterDependencyInjection\\obj\\",
+      "outputPath": "E:\\.Net\\.Net Practice\\.Net 6\\Qatar\\Git Project\\.Net6_RegisterDI\\RegisterDependencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

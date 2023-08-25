@@ -1,0 +1,7 @@
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net6.0\RegisterDependencyInjection.csproj.AssemblyReference.cache
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net6.0\RegisterDependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net6.0\RegisterDependencyInjection.AssemblyInfoInputs.cache
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net6.0\RegisterDependencyInjection.AssemblyInfo.cs
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net6.0\RegisterDependencyInjection.csproj.CoreCompileInputs.cache
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net6.0\RegisterDependencyInjection.MvcApplicationPartsAssemblyInfo.cs
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net6.0\RegisterDependencyInjection.MvcApplicationPartsAssemblyInfo.cache

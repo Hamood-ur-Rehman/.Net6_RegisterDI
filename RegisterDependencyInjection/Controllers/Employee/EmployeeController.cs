@@ -10,7 +10,6 @@ namespace RegisterDependencyInjection.Controllers.Employee
         private readonly IEmployeeDetails _employeeService;
         public EmployeeController(IEmployeeDetails employeeService)
         {
-
             _employeeService = employeeService;
         }
 
@@ -19,6 +18,15 @@ namespace RegisterDependencyInjection.Controllers.Employee
         public async Task< IEnumerable<EmployeeBasicDetails>> GetEmployeeList()
         {
             var res =await _employeeService.GetEmployee();
+            return res;
+        }
+
+
+        [Route("AddNewEmployee")]
+        [HttpPost]
+        public async Task<IEnumerable<EmployeeBasicDetails>> AddNewEmployee(EmployeeBasicDetails reqEmployeeBasicDetails)
+        {
+            var res = await _employeeService.AddingEmployee(reqEmployeeBasicDetails);
             return res;
         }
     }

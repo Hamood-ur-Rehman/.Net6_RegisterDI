@@ -4,6 +4,25 @@ namespace RegisterDependencyInjection.Services.Employee
 {
     public class EmployeeService : IEmployeeDetails
     {
+        public async Task<List<EmployeeBasicDetails>> AddingEmployee(EmployeeBasicDetails employeeBasicDetails)
+        {
+            List<EmployeeBasicDetails> listOfEmp =await GetEmployee();
+           var newEmp =  new EmployeeBasicDetails()
+            {
+                Id = 1,
+                Title = employeeBasicDetails.Title,
+                Name = employeeBasicDetails.Name,
+                Age = employeeBasicDetails.Age,
+                EmailId = employeeBasicDetails.EmailId,
+                MobileNumber = employeeBasicDetails.MobileNumber,
+                Address = employeeBasicDetails.Address,
+                Pincode = employeeBasicDetails.Pincode
+
+           };
+            listOfEmp.Add(newEmp);
+            return listOfEmp;
+        }
+
         public async Task<List<EmployeeBasicDetails>> GetEmployee()
         {
             var employees = new List<EmployeeBasicDetails>()

@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/RegisterDependencyInjection/DesignTimeBuild/.dtbcache.v2
+/.vs/RegisterDependencyInjection/v17/.futdcache.v1
+/.vs/RegisterDependencyInjection/project-colors.json
+
+# Visual Studio 2015 cache/options directory
+.vs/

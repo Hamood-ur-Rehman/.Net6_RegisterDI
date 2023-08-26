@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "z4nLvkjgOsfWJ29cK8gPyZyLRwktJ1tziPuqBAeTk9Lg8IppLO6OB3iw8kW8rJPnZ7y/rth1/3A+6hbWScHO2g==",
+  "dgSpecHash": "aAGwnKkUS1pjpjkZciYixka6Ss0sXNTlURKQmVlLsqkVNVzGxn0vqiv2Lci4e8Z09Oo3+eBPF9PTfVo9dQlnDw==",
   "success": true,
   "projectFilePath": "E:\\.Net\\.Net Practice\\.Net 6\\Qatar\\Git Project\\.Net6_RegisterDI\\Entities\\Entities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\system.json\\4.7.1\\system.json.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

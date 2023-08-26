@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1dhN+b9M9raBx1QsVcDkpo1thcJSxrZ4Q15gYjxr6m/Y9Gkw1dT9oUpgdINOZw++FxDOkuPG+FJzjhyK5HYagQ==",
+  "dgSpecHash": "AAvOUT5VLtAjVi3jjc935fPCAw4thFVR2jsKaTOFpjcHaWR9SMq/BYk9yq7ELQJ0zQVmJ6ctnctEOkeysE078A==",
   "success": true,
   "projectFilePath": "E:\\.Net\\.Net Practice\\.Net 6\\Qatar\\Git Project\\.Net6_RegisterDI\\RegisterDependencyInjection\\RegisterDependencyInjection.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,8 @@
     "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.json\\4.7.1\\system.json.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

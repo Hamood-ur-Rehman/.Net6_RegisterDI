@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = RegisterDependencyInjection
+build_property.ProjectDir = E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\

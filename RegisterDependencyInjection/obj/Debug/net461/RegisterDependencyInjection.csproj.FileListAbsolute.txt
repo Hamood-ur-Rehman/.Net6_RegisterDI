@@ -1,0 +1,7 @@
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net461\RegisterDependencyInjection.csproj.AssemblyReference.cache
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net461\RegisterDependencyInjection.csproj.SuggestedBindingRedirects.cache
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net461\RegisterDependencyInjection.exe.config
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net461\RegisterDependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net461\RegisterDependencyInjection.AssemblyInfoInputs.cache
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net461\RegisterDependencyInjection.AssemblyInfo.cs
+E:\.Net\.Net Practice\.Net 6\Qatar\Git Project\.Net6_RegisterDI\RegisterDependencyInjection\obj\Debug\net461\RegisterDependencyInjection.csproj.CoreCompileInputs.cache

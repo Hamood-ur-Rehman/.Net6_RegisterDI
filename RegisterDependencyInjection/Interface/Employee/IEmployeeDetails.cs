@@ -1,8 +1,9 @@
-﻿
-namespace RegisterDependencyInjection.Interface.Employee
+﻿using Entities.Employee;
+
+namespace RegisterDependencyInjection
 {
     public interface IEmployeeDetails
     {
-        public List<Employee> GetEmployee();    
+       public Task<List<EmployeeBasicDetails>> GetEmployee();
     }
 }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hua2r0zy7cruzwsvRrHu4pYQDLWc0KXY3iyNv8mhYuQ=",
+  "Source": "RegisterDependencyInjection",
+  "BasePath": "_content/RegisterDependencyInjection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

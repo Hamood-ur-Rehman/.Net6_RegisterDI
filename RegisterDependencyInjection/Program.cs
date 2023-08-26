@@ -7,6 +7,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+// Initlize the Lifetime service over here...
+builder.Services.AddScoped<RegisterDependencyInjection.IEmployeeDetails, RegisterDependencyInjection.Services.Employee.EmployeeService>();
+//
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
